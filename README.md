@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mahmoud</h1>
 <h3 align="center">A Computer Science Student From Egypt</h3>
 
-- 📫 How to reach me **mm1471800@gmail.com**
+- 📫 How to reach me **mostafamahmoudfouad0@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jl42Yfkl6QAATLpz--5bed6gUUJsLz5A/view?usp=sharing)
 
