@@ -1,7 +1,7 @@
 Hi👋🏼 My name is Mostafa
 ===============================================================================================================================
 
-software engineering and web developer
+Software Engineering
 --------------------------------------
 
 * 🌍  I'm based in Cairo
